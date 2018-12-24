@@ -1,0 +1,25 @@
+{
+  "name": "MMFullScreenMessage",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "summary": "A library to show a message on full screen above any layout beneath it.",
+  "description": "This is a library to show a message overlayed over the screen. It's a UI blocking message to show critical message where the user should not be able to do anything until it's fixed.",
+  "requires_arc": true,
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mario A. Mouris": "marioamgad9@gmail.com"
+  },
+  "homepage": "https://github.com/marioamgad9/MMFullScreenMessage",
+  "source": {
+    "git": "https://github.com/marioamgad9/MMFullScreenMessage.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "MMFullScreenMessage/**/*.{swift}",
+  "swift_version": "4.2"
+}

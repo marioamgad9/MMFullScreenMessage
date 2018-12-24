@@ -9,6 +9,10 @@
 import Foundation
 
 public class TestClass {
+    public init() {
+        
+    }
+    
     public func doSomething() -> String {
         return "Done some stuff, happy now?"
     }

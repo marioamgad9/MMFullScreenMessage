@@ -1,0 +1,16 @@
+PODS:
+  - MMFullScreenMessage (0.0.1)
+
+DEPENDENCIES:
+  - MMFullScreenMessage (from `../MMFullScreenMessage`)
+
+EXTERNAL SOURCES:
+  MMFullScreenMessage:
+    :path: "../MMFullScreenMessage"
+
+SPEC CHECKSUMS:
+  MMFullScreenMessage: bb1a66e7a8a1c14ee5d294edc47b5125363a6ebd
+
+PODFILE CHECKSUM: 23b3ffe407f9b755a5db50615289784d921fe7f3
+
+COCOAPODS: 1.5.3

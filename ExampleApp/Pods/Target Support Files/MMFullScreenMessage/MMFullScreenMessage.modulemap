@@ -1,0 +1,6 @@
+framework module MMFullScreenMessage {
+  umbrella header "MMFullScreenMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
