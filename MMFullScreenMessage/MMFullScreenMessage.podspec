@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
     s.framework = "UIKit"
 
     s.source_files = "MMFullScreenMessage/**/*.{swift}"
-    s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
     s.swift_version = "4.2"
 
