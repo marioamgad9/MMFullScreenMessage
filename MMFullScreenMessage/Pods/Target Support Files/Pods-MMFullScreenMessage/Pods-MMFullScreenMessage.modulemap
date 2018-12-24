@@ -1,0 +1,6 @@
+framework module Pods_MMFullScreenMessage {
+  umbrella header "Pods-MMFullScreenMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
